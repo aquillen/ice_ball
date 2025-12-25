@@ -1,2 +1,2 @@
 # ice_ball
-condensation waves in iceballs
+ice-deposition fronts in protosolar iceballs
